@@ -1,5 +1,5 @@
 {
-  "name": "basic",
+  "name": "cf-honox-llm-together",
   "type": "module",
   "scripts": {
     "dev": "vite",
